@@ -1,4 +1,6 @@
-# Lex
+# Test for Grants finder in disinformation space Asia based of Lex
+
+AI Agent for Tracking Grants and Funding Opportunities for FIMI NGOs. Focuses on disinformation, digital rights, and civic tech funding.
 
 UK legal API for AI agents and researchers. Access comprehensive UK legislation data with semantic search and Model Context Protocol integration.
 
